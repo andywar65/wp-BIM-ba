@@ -1,0 +1,2126 @@
+# Copyright (C) 2017 BIM-ba
+# This file is distributed under the same license as the BIM-ba package.
+msgid ""
+msgstr ""
+"Project-Id-Version: BIM-ba 2.0.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/bim-ba\n"
+"POT-Creation-Date: 2017-02-02 21:30:26+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2017-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: bim-ba.php:113 lib/gestudio-prime-note.php:58
+#: lib/gestudio-prime-note.php:257
+msgid "Counting Category"
+msgstr ""
+
+#: bim-ba.php:116 bim-ba.php:125 lib/gestudio-prime-note.php:523
+msgid "Incomes"
+msgstr ""
+
+#: bim-ba.php:117 bim-ba.php:131 lib/gestudio-prime-note.php:524
+#: lib/gestudio.php:408
+msgid "Expenses"
+msgstr ""
+
+#: bim-ba.php:118 lib/gestudio-prime-note.php:525
+msgid "Clearances"
+msgstr ""
+
+#: bim-ba.php:127
+msgid "Anticipations"
+msgstr ""
+
+#: bim-ba.php:134
+msgid "01-Taxes"
+msgstr ""
+
+#: bim-ba.php:134
+msgid "taxes"
+msgstr ""
+
+#: bim-ba.php:135
+msgid "02-Profits"
+msgstr ""
+
+#: bim-ba.php:135
+msgid "profits"
+msgstr ""
+
+#: bim-ba.php:136
+msgid "03-Restitutions"
+msgstr ""
+
+#: bim-ba.php:136
+msgid "restitutions"
+msgstr ""
+
+#: bim-ba.php:137
+msgid "04-Social Security"
+msgstr ""
+
+#: bim-ba.php:137
+msgid "social-security"
+msgstr ""
+
+#: bim-ba.php:138
+msgid "05-Salaries"
+msgstr ""
+
+#: bim-ba.php:138
+msgid "salaries"
+msgstr ""
+
+#: bim-ba.php:139
+msgid "06-Internal Contributors"
+msgstr ""
+
+#: bim-ba.php:139
+msgid "internal-contributors"
+msgstr ""
+
+#: bim-ba.php:140
+msgid "07-External Contributors"
+msgstr ""
+
+#: bim-ba.php:140
+msgid "external-contributors"
+msgstr ""
+
+#: bim-ba.php:141
+msgid "08-Loans"
+msgstr ""
+
+#: bim-ba.php:141
+msgid "loans"
+msgstr ""
+
+#: bim-ba.php:142
+msgid "09-Energy Supplies"
+msgstr ""
+
+#: bim-ba.php:142
+msgid "energy-supplies"
+msgstr ""
+
+#: bim-ba.php:143
+msgid "10-Communications"
+msgstr ""
+
+#: bim-ba.php:143
+msgid "communications"
+msgstr ""
+
+#: bim-ba.php:144
+msgid "11-Assistence"
+msgstr ""
+
+#: bim-ba.php:144
+msgid "assistence"
+msgstr ""
+
+#: bim-ba.php:145
+msgid "12-Office Supplies"
+msgstr ""
+
+#: bim-ba.php:145
+msgid "office-supplies"
+msgstr ""
+
+#: bim-ba.php:146
+msgid "13-Fleet"
+msgstr ""
+
+#: bim-ba.php:146
+msgid "fleet"
+msgstr ""
+
+#: bim-ba.php:147
+msgid "14-Policies"
+msgstr ""
+
+#: bim-ba.php:147
+msgid "policies"
+msgstr ""
+
+#: bim-ba.php:148
+msgid "15-Other"
+msgstr ""
+
+#: bim-ba.php:148
+msgid "other"
+msgstr ""
+
+#: bim-ba.php:158 lib/gestudio-operatori.php:53
+msgid "Role of Operator"
+msgstr ""
+
+#: bim-ba.php:161 lib/gestudio-rapporti.php:282 lib/gestudio.php:201
+msgid "Studio"
+msgstr ""
+
+#: bim-ba.php:162
+msgid "Contributor"
+msgstr ""
+
+#: bim-ba.php:163 lib/gestudio-lavori.php:108 lib/gestudio-lavori.php:214
+#: lib/gestudio-operatori.php:121 lib/gestudio-settings-page.php:267
+#: lib/gestudio.php:75 lib/gestudio.php:321
+msgid "Client"
+msgstr ""
+
+#: bim-ba.php:164 lib/gestudio-lavori.php:305
+#: lib/gestudio-settings-page.php:350
+msgid "Contractor"
+msgstr ""
+
+#: bim-ba.php:165
+msgid "Bank"
+msgstr ""
+
+#: bim-ba.php:174
+msgid "Fase di Lavorazione"
+msgstr ""
+
+#: bim-ba.php:177
+msgid "01-Inquest"
+msgstr ""
+
+#: bim-ba.php:178
+msgid "02-Draft"
+msgstr ""
+
+#: bim-ba.php:179
+msgid "03-Final Project"
+msgstr ""
+
+#: bim-ba.php:180
+msgid "04-Executive project"
+msgstr ""
+
+#: bim-ba.php:181
+msgid "05-Tender Invitation"
+msgstr ""
+
+#: bim-ba.php:182
+msgid "06-Contract"
+msgstr ""
+
+#: bim-ba.php:183
+msgid "07-Project Management"
+msgstr ""
+
+#: bim-ba.php:184
+msgid "08-Trials"
+msgstr ""
+
+#: bim-ba.php:193 lib/gestudio-rapporti.php:60
+msgid "Type of Report"
+msgstr ""
+
+#: bim-ba.php:197
+msgid "Draft Bill"
+msgstr ""
+
+#: bim-ba.php:198
+msgid "Final Bill"
+msgstr ""
+
+#: bim-ba.php:199
+msgid "Fee"
+msgstr ""
+
+#: bim-ba.php:200 lib/gestudio-rapporti.php:278 lib/gestudio.php:263
+msgid "Invoice"
+msgstr ""
+
+#: bim-ba.php:201
+msgid "Credit"
+msgstr ""
+
+#: bim-ba.php:217
+msgid "3D Ambients"
+msgstr ""
+
+#: bim-ba.php:218
+msgid "3D Ambient"
+msgstr ""
+
+#: bim-ba.php:219 bim-ba.php:252
+msgid "Add New"
+msgstr ""
+
+#: bim-ba.php:220
+msgid "Add 3D Ambient"
+msgstr ""
+
+#: bim-ba.php:221
+msgid "Modify 3D Ambient"
+msgstr ""
+
+#: bim-ba.php:222
+msgid "New 3D Ambient"
+msgstr ""
+
+#: bim-ba.php:223
+msgid "All 3D Ambients"
+msgstr ""
+
+#: bim-ba.php:224
+msgid "Wiev 3D Ambient"
+msgstr ""
+
+#: bim-ba.php:225
+msgid "Search 3D Ambient"
+msgstr ""
+
+#: bim-ba.php:226
+msgid "No 3D Ambient"
+msgstr ""
+
+#: bim-ba.php:227
+msgid "No 3D Ambient in Trash"
+msgstr ""
+
+#: bim-ba.php:239
+msgctxt "URL slug"
+msgid "3d-ambient"
+msgstr ""
+
+#: bim-ba.php:250
+msgid "3D Materials"
+msgstr ""
+
+#: bim-ba.php:251
+msgid "3D Material"
+msgstr ""
+
+#: bim-ba.php:253
+msgid "Add 3D Material"
+msgstr ""
+
+#: bim-ba.php:254
+msgid "Modify 3D Material"
+msgstr ""
+
+#: bim-ba.php:255
+msgid "New 3D Material"
+msgstr ""
+
+#: bim-ba.php:256
+msgid "All 3D Materials"
+msgstr ""
+
+#: bim-ba.php:257
+msgid "Wiev 3D Material"
+msgstr ""
+
+#: bim-ba.php:258
+msgid "Search 3D Material"
+msgstr ""
+
+#: bim-ba.php:259
+msgid "No 3D Material"
+msgstr ""
+
+#: bim-ba.php:260
+msgid "No 3D Material in Trash"
+msgstr ""
+
+#: bim-ba.php:272
+msgctxt "URL slug"
+msgid "3d-material"
+msgstr ""
+
+#: lib/3d-ambient.php:41
+msgid "Room dimensions"
+msgstr ""
+
+#: lib/3d-ambient.php:47
+msgid "Room height"
+msgstr ""
+
+#: lib/3d-ambient.php:48 lib/3d-ambient.php:186 lib/3d-ambient.php:246
+#: lib/3d-ambient.php:266 lib/3d-ambient.php:276 lib/3d-ambient.php:286
+#: lib/3d-ambient.php:297
+msgid "In centimeters"
+msgstr ""
+
+#: lib/3d-ambient.php:56
+msgid "Skirting height"
+msgstr ""
+
+#: lib/3d-ambient.php:57
+msgid "In centimeters (max 30). Leave null if no skirting"
+msgstr ""
+
+#: lib/3d-ambient.php:72
+msgid "Room Colors & Images"
+msgstr ""
+
+#: lib/3d-ambient.php:78
+msgid "Wall Material"
+msgstr ""
+
+#: lib/3d-ambient.php:86
+msgid "Room Color"
+msgstr ""
+
+#: lib/3d-ambient.php:87
+msgid "Blends with Wall Material except if white"
+msgstr ""
+
+#: lib/3d-ambient.php:93
+msgid "Floor Image"
+msgstr ""
+
+#: lib/3d-ambient.php:98
+msgid "Floor Material"
+msgstr ""
+
+#: lib/3d-ambient.php:110
+msgid "Floor Color"
+msgstr ""
+
+#: lib/3d-ambient.php:111
+msgid "Blends with Floor Image / Material except if white"
+msgstr ""
+
+#: lib/3d-ambient.php:117
+msgid "Skirting Color"
+msgstr ""
+
+#: lib/3d-ambient.php:123
+msgid "Tiling Material"
+msgstr ""
+
+#: lib/3d-ambient.php:131
+msgid "Tiling Color"
+msgstr ""
+
+#: lib/3d-ambient.php:132
+msgid "Blends with Tiling Material except if white"
+msgstr ""
+
+#: lib/3d-ambient.php:150
+msgid "Walls"
+msgstr ""
+
+#: lib/3d-ambient.php:159
+msgid "Wall {#}"
+msgstr ""
+
+#: lib/3d-ambient.php:160
+msgid "Add Another Wall"
+msgstr ""
+
+#: lib/3d-ambient.php:161
+msgid "Remove Wall"
+msgstr ""
+
+#: lib/3d-ambient.php:173
+msgid "Direction"
+msgstr ""
+
+#: lib/3d-ambient.php:178
+msgid "To the right"
+msgstr ""
+
+#: lib/3d-ambient.php:179
+msgid "To the back"
+msgstr ""
+
+#: lib/3d-ambient.php:180
+msgid "To the left"
+msgstr ""
+
+#: lib/3d-ambient.php:181
+msgid "To the front"
+msgstr ""
+
+#: lib/3d-ambient.php:185
+msgid "Length"
+msgstr ""
+
+#: lib/3d-ambient.php:191
+msgid "Wall Image"
+msgstr ""
+
+#: lib/3d-ambient.php:192
+msgid "Hides materials"
+msgstr ""
+
+#: lib/3d-ambient.php:197
+msgid "Apply Wall Material"
+msgstr ""
+
+#: lib/3d-ambient.php:198
+msgid "Works if Wall Material is selected in Room section"
+msgstr ""
+
+#: lib/3d-ambient.php:203
+msgid "Wall Color"
+msgstr ""
+
+#: lib/3d-ambient.php:204
+msgid "Inherits room color if not selected"
+msgstr ""
+
+#: lib/3d-ambient.php:209
+msgid "Tiling Height"
+msgstr ""
+
+#: lib/3d-ambient.php:210
+msgid "In centimeters. Leave null if no tiling"
+msgstr ""
+
+#: lib/3d-ambient.php:215
+msgid "Apply Tiling Material"
+msgstr ""
+
+#: lib/3d-ambient.php:216
+msgid "Works if Tiling Material is selected in Room section"
+msgstr ""
+
+#: lib/3d-ambient.php:224
+msgid "Wall Tiling Color"
+msgstr ""
+
+#: lib/3d-ambient.php:225
+msgid "Inherits global tiling color if not selected"
+msgstr ""
+
+#: lib/3d-ambient.php:233
+msgid "Openings"
+msgstr ""
+
+#: lib/3d-ambient.php:234
+msgid "Overrides wall image"
+msgstr ""
+
+#: lib/3d-ambient.php:240
+msgid "Door"
+msgstr ""
+
+#: lib/3d-ambient.php:241
+msgid "Window"
+msgstr ""
+
+#: lib/3d-ambient.php:245
+msgid "Opening Width"
+msgstr ""
+
+#: lib/3d-ambient.php:255
+msgid "Opening Offset"
+msgstr ""
+
+#: lib/3d-ambient.php:256
+msgid ""
+"Distance in centimeters between left shoulder of opening and wall origin. If "
+"null opening will be centered, if negative offset = 0"
+msgstr ""
+
+#: lib/3d-ambient.php:265
+msgid "Opening Height"
+msgstr ""
+
+#: lib/3d-ambient.php:275
+msgid "Wall Depth"
+msgstr ""
+
+#: lib/3d-ambient.php:285
+msgid "Windowsill Height"
+msgstr ""
+
+#: lib/3d-ambient.php:296
+msgid "Windowsill Depht"
+msgstr ""
+
+#: lib/3d-ambient.php:311
+msgid "Frameless opening"
+msgstr ""
+
+#: lib/3d-ambient.php:312
+msgid "Check if there is no frame"
+msgstr ""
+
+#: lib/3d-ambient.php:334
+msgid "Objects"
+msgstr ""
+
+#: lib/3d-ambient.php:343
+msgid "Object {#}"
+msgstr ""
+
+#: lib/3d-ambient.php:344
+msgid "Add Another Object"
+msgstr ""
+
+#: lib/3d-ambient.php:345
+msgid "Remove Object"
+msgstr ""
+
+#: lib/3d-ambient.php:357
+msgid "Wall ID"
+msgstr ""
+
+#: lib/3d-ambient.php:358
+msgid "Wall you want to relate the object to"
+msgstr ""
+
+#: lib/3d-ambient.php:363
+msgid "Object"
+msgstr ""
+
+#: lib/3d-ambient.php:368
+msgid "Bed"
+msgstr ""
+
+#: lib/3d-ambient.php:369
+msgid "Table & Chair"
+msgstr ""
+
+#: lib/3d-ambient.php:370
+msgid "Wardrobe"
+msgstr ""
+
+#: lib/3d-ambient.php:374
+msgid "Offset"
+msgstr ""
+
+#: lib/3d-ambient.php:375
+msgid ""
+"Distance in centimeters between left side of object and wall origin. If "
+"null, object will be centered, if negative it will be placed at wall origin"
+msgstr ""
+
+#: lib/3d-ambient.php:384
+msgid "Width"
+msgstr ""
+
+#: lib/3d-ambient.php:393
+msgid "Distance"
+msgstr ""
+
+#: lib/3d-ambient.php:394
+msgid "Distance from the wall in centimeters"
+msgstr ""
+
+#: lib/3d-ambient.php:413
+msgid "Room Global Positioning"
+msgstr ""
+
+#: lib/3d-ambient.php:419
+msgid "Orientation"
+msgstr ""
+
+#: lib/3d-ambient.php:420
+msgid "Front of room orientation in the real world"
+msgstr ""
+
+#: lib/3d-ambient.php:425
+msgid "North"
+msgstr ""
+
+#: lib/3d-ambient.php:426
+msgid "West"
+msgstr ""
+
+#: lib/3d-ambient.php:427
+msgid "South"
+msgstr ""
+
+#: lib/3d-ambient.php:428
+msgid "East"
+msgstr ""
+
+#: lib/3d-ambient.php:433
+msgid "East (X) Displacement"
+msgstr ""
+
+#: lib/3d-ambient.php:434
+msgid ""
+"Room displacement with respect to a fixed origin in the East (X) / West (-X) "
+"axis, in centimeters"
+msgstr ""
+
+#: lib/3d-ambient.php:440
+msgid "South (Z) Displacement"
+msgstr ""
+
+#: lib/3d-ambient.php:441
+msgid ""
+"Room displacement with respect to a fixed origin in the North (-Z) / South "
+"(Z) axis, in centimeters"
+msgstr ""
+
+#: lib/3d-ambient.php:457
+msgid "Material Description"
+msgstr ""
+
+#: lib/3d-ambient.php:463
+msgid "Image"
+msgstr ""
+
+#: lib/3d-ambient.php:464
+msgid "Possibly a 1x1 m pattern"
+msgstr ""
+
+#: lib/3d-ambient.php:1271
+msgid "Data for room %s"
+msgstr ""
+
+#: lib/3d-ambient.php:1273
+msgid "Room area is %s m2"
+msgstr ""
+
+#: lib/3d-ambient.php:1275
+msgid "Room height is %s m"
+msgstr ""
+
+#: lib/3d-ambient.php:1277
+msgid "Room volume is %s m3"
+msgstr ""
+
+#: lib/3d-ambient.php:1279
+msgid "Floor area is %s m2"
+msgstr ""
+
+#: lib/3d-ambient.php:1281
+msgid "Room wall surface is %s m2"
+msgstr ""
+
+#: lib/3d-ambient.php:1283
+msgid "Room painted surface is %s m2"
+msgstr ""
+
+#: lib/3d-ambient.php:1285
+msgid "Room tiling surface is %s m2"
+msgstr ""
+
+#: lib/3d-ambient.php:1287
+msgid "Room skirting length is %s m"
+msgstr ""
+
+#: lib/3d-ambient.php:1289
+msgid "Room has %s door"
+msgid_plural "Room has %s doors"
+msgstr[0] ""
+msgstr[1] ""
+
+#: lib/3d-ambient.php:1291
+msgid "Door surface is %s m2"
+msgstr ""
+
+#: lib/3d-ambient.php:1293
+msgid "Room has %s window"
+msgid_plural "Room has %s windows"
+msgstr[0] ""
+msgstr[1] ""
+
+#: lib/3d-ambient.php:1295
+msgid "Window surface is %s m2"
+msgstr ""
+
+#: lib/3d-ambient.php:1302
+msgid "Total Data"
+msgstr ""
+
+#: lib/3d-ambient.php:1304
+msgid "Total area is %s m2"
+msgstr ""
+
+#: lib/3d-ambient.php:1306
+msgid "Total volume is %s m3"
+msgstr ""
+
+#: lib/3d-ambient.php:1308
+msgid "Total floor area is %s m2"
+msgstr ""
+
+#: lib/3d-ambient.php:1310
+msgid "Total wall surface is %s m2"
+msgstr ""
+
+#: lib/3d-ambient.php:1312
+msgid "Total painted surface is %s m2"
+msgstr ""
+
+#: lib/3d-ambient.php:1314
+msgid "Total tiling surface is %s m2"
+msgstr ""
+
+#: lib/3d-ambient.php:1316
+msgid "Total skirting length is %s m"
+msgstr ""
+
+#: lib/3d-ambient.php:1318
+msgid "In total there is %s door"
+msgid_plural "In total there are %s doors"
+msgstr[0] ""
+msgstr[1] ""
+
+#: lib/3d-ambient.php:1320
+msgid "Total door surface is %s m2"
+msgstr ""
+
+#: lib/3d-ambient.php:1322
+msgid "In total there is %s window"
+msgid_plural "In total there are %s windows"
+msgstr[0] ""
+msgstr[1] ""
+
+#: lib/3d-ambient.php:1324
+msgid "Total window surface is %s m2"
+msgstr ""
+
+#: lib/cmb2/example-functions.php:117
+msgid "Test Metabox"
+msgstr ""
+
+#: lib/cmb2/example-functions.php:130 lib/cmb2/example-functions.php:452
+msgid "Test Text"
+msgstr ""
+
+#: lib/cmb2/example-functions.php:131 lib/cmb2/example-functions.php:144
+#: lib/cmb2/example-functions.php:157 lib/cmb2/example-functions.php:164
+#: lib/cmb2/example-functions.php:177 lib/cmb2/example-functions.php:185
+#: lib/cmb2/example-functions.php:194 lib/cmb2/example-functions.php:202
+#: lib/cmb2/example-functions.php:217 lib/cmb2/example-functions.php:225
+#: lib/cmb2/example-functions.php:233 lib/cmb2/example-functions.php:250
+#: lib/cmb2/example-functions.php:259 lib/cmb2/example-functions.php:272
+#: lib/cmb2/example-functions.php:279 lib/cmb2/example-functions.php:286
+#: lib/cmb2/example-functions.php:300 lib/cmb2/example-functions.php:313
+#: lib/cmb2/example-functions.php:326 lib/cmb2/example-functions.php:338
+#: lib/cmb2/example-functions.php:347 lib/cmb2/example-functions.php:355
+#: lib/cmb2/example-functions.php:364 lib/cmb2/example-functions.php:371
+#: lib/cmb2/example-functions.php:385 lib/cmb2/example-functions.php:453
+#: lib/cmb2/example-functions.php:544 lib/cmb2/example-functions.php:552
+#: lib/cmb2/example-functions.php:559 lib/cmb2/example-functions.php:566
+#: lib/cmb2/example-functions.php:573 lib/cmb2/example-functions.php:580
+#: lib/cmb2/example-functions.php:587 lib/cmb2/example-functions.php:614
+#: lib/cmb2/example-functions.php:622 lib/cmb2/example-functions.php:629
+#: lib/cmb2/example-functions.php:666
+#: lib/cmb2-conditionals/example-functions.php:184
+msgid "field description (optional)"
+msgstr ""
+
+#: lib/cmb2/example-functions.php:143
+msgid "Test Text Small"
+msgstr ""
+
+#: lib/cmb2/example-functions.php:156
+msgid "Test Text Medium"
+msgstr ""
+
+#: lib/cmb2/example-functions.php:163
+msgid "Read-only Disabled Field"
+msgstr ""
+
+#: lib/cmb2/example-functions.php:167
+msgid "Hey there, I'm a read-only field"
+msgstr ""
+
+#: lib/cmb2/example-functions.php:176
+msgid "Custom Rendered Field"
+msgstr ""
+
+#: lib/cmb2/example-functions.php:184
+msgid "Website URL"
+msgstr ""
+
+#: lib/cmb2/example-functions.php:193
+msgid "Test Text Email"
+msgstr ""
+
+#: lib/cmb2/example-functions.php:201
+msgid "Test Time"
+msgstr ""
+
+#: lib/cmb2/example-functions.php:209 lib/cmb2/example-functions.php:210
+msgid "Time zone"
+msgstr ""
+
+#: lib/cmb2/example-functions.php:216
+msgid "Test Date Picker"
+msgstr ""
+
+#: lib/cmb2/example-functions.php:224
+msgid "Test Date Picker (UNIX timestamp)"
+msgstr ""
+
+#: lib/cmb2/example-functions.php:232
+msgid "Test Date/Time Picker Combo (UNIX timestamp)"
+msgstr ""
+
+#: lib/cmb2/example-functions.php:249
+msgid "Test Money"
+msgstr ""
+
+#: lib/cmb2/example-functions.php:258
+msgid "Test Color Picker"
+msgstr ""
+
+#: lib/cmb2/example-functions.php:271
+msgid "Test Text Area"
+msgstr ""
+
+#: lib/cmb2/example-functions.php:278
+msgid "Test Text Area Small"
+msgstr ""
+
+#: lib/cmb2/example-functions.php:285
+msgid "Test Text Area for Code"
+msgstr ""
+
+#: lib/cmb2/example-functions.php:292
+msgid "Test Title Weeeee"
+msgstr ""
+
+#: lib/cmb2/example-functions.php:293
+msgid "This is a title description"
+msgstr ""
+
+#: lib/cmb2/example-functions.php:299
+msgid "Test Select"
+msgstr ""
+
+#: lib/cmb2/example-functions.php:305 lib/cmb2/example-functions.php:318
+#: lib/cmb2/example-functions.php:330
+msgid "Option One"
+msgstr ""
+
+#: lib/cmb2/example-functions.php:306 lib/cmb2/example-functions.php:319
+#: lib/cmb2/example-functions.php:331
+msgid "Option Two"
+msgstr ""
+
+#: lib/cmb2/example-functions.php:307 lib/cmb2/example-functions.php:320
+#: lib/cmb2/example-functions.php:332
+msgid "Option Three"
+msgstr ""
+
+#: lib/cmb2/example-functions.php:312
+msgid "Test Radio inline"
+msgstr ""
+
+#: lib/cmb2/example-functions.php:325
+msgid "Test Radio"
+msgstr ""
+
+#: lib/cmb2/example-functions.php:337
+msgid "Test Taxonomy Radio"
+msgstr ""
+
+#: lib/cmb2/example-functions.php:346
+msgid "Test Taxonomy Select"
+msgstr ""
+
+#: lib/cmb2/example-functions.php:354
+msgid "Test Taxonomy Multi Checkbox"
+msgstr ""
+
+#: lib/cmb2/example-functions.php:363
+msgid "Test Checkbox"
+msgstr ""
+
+#: lib/cmb2/example-functions.php:370
+#: lib/cmb2-conditionals/example-functions.php:183
+msgid "Test Multi Checkbox"
+msgstr ""
+
+#: lib/cmb2/example-functions.php:376
+#: lib/cmb2-conditionals/example-functions.php:188
+msgid "Check One"
+msgstr ""
+
+#: lib/cmb2/example-functions.php:377
+#: lib/cmb2-conditionals/example-functions.php:189
+msgid "Check Two"
+msgstr ""
+
+#: lib/cmb2/example-functions.php:378
+#: lib/cmb2-conditionals/example-functions.php:190
+msgid "Check Three"
+msgstr ""
+
+#: lib/cmb2/example-functions.php:384
+msgid "Test wysiwyg"
+msgstr ""
+
+#: lib/cmb2/example-functions.php:392
+msgid "Test Image"
+msgstr ""
+
+#: lib/cmb2/example-functions.php:393
+msgid "Upload an image or enter a URL."
+msgstr ""
+
+#: lib/cmb2/example-functions.php:399
+msgid "Multiple Files"
+msgstr ""
+
+#: lib/cmb2/example-functions.php:400
+msgid "Upload or add multiple images/attachments."
+msgstr ""
+
+#: lib/cmb2/example-functions.php:407
+msgid "oEmbed"
+msgstr ""
+
+#. translators: %s: link to codex.wordpress.org/Embeds
+#: lib/cmb2/example-functions.php:410
+msgid ""
+"Enter a youtube, twitter, or instagram URL. Supports services listed at %s."
+msgstr ""
+
+#: lib/cmb2/example-functions.php:443
+msgid "About Page Metabox"
+msgstr ""
+
+#: lib/cmb2/example-functions.php:472
+msgid "Repeating Field Group"
+msgstr ""
+
+#: lib/cmb2/example-functions.php:480
+msgid "Generates reusable form entries"
+msgstr ""
+
+#: lib/cmb2/example-functions.php:482
+msgid "Entry {#}"
+msgstr ""
+
+#: lib/cmb2/example-functions.php:483
+msgid "Add Another Entry"
+msgstr ""
+
+#: lib/cmb2/example-functions.php:484
+msgid "Remove Entry"
+msgstr ""
+
+#: lib/cmb2/example-functions.php:497
+msgid "Entry Title"
+msgstr ""
+
+#: lib/cmb2/example-functions.php:504 lib/gestudio-prime-note.php:256
+msgid "Description"
+msgstr ""
+
+#: lib/cmb2/example-functions.php:505
+msgid "Write a short description for this entry"
+msgstr ""
+
+#: lib/cmb2/example-functions.php:511
+msgid "Entry Image"
+msgstr ""
+
+#: lib/cmb2/example-functions.php:517
+msgid "Image Caption"
+msgstr ""
+
+#: lib/cmb2/example-functions.php:536
+msgid "User Profile Metabox"
+msgstr ""
+
+#: lib/cmb2/example-functions.php:543 lib/cmb2/example-functions.php:613
+msgid "Extra Info"
+msgstr ""
+
+#: lib/cmb2/example-functions.php:551
+msgid "Avatar"
+msgstr ""
+
+#: lib/cmb2/example-functions.php:558
+msgid "Facebook URL"
+msgstr ""
+
+#: lib/cmb2/example-functions.php:565
+msgid "Twitter URL"
+msgstr ""
+
+#: lib/cmb2/example-functions.php:572
+msgid "Google+ URL"
+msgstr ""
+
+#: lib/cmb2/example-functions.php:579
+msgid "Linkedin URL"
+msgstr ""
+
+#: lib/cmb2/example-functions.php:586
+msgid "User Field"
+msgstr ""
+
+#: lib/cmb2/example-functions.php:606
+msgid "Category Metabox"
+msgstr ""
+
+#: lib/cmb2/example-functions.php:621
+msgid "Term Image"
+msgstr ""
+
+#: lib/cmb2/example-functions.php:628
+msgid "Arbitrary Term Field"
+msgstr ""
+
+#: lib/cmb2/example-functions.php:650
+msgid "Theme Options Metabox"
+msgstr ""
+
+#: lib/cmb2/example-functions.php:665
+msgid "Site Background Color"
+msgstr ""
+
+#: lib/cmb2/example-functions.php:701
+msgid "REST Test Box"
+msgstr ""
+
+#: lib/cmb2/example-functions.php:710
+msgid "REST Test Text"
+msgstr ""
+
+#: lib/cmb2/example-functions.php:711
+msgid "Will show in the REST API for this box and for pages."
+msgstr ""
+
+#: lib/cmb2/example-functions.php:717
+msgid "REST Editable Test Text"
+msgstr ""
+
+#: lib/cmb2/example-functions.php:718
+msgid "Will show in REST API \"editable\" contexts only (`POST` requests)."
+msgstr ""
+
+#: lib/cmb2/includes/CMB2.php:117
+msgid "Metabox configuration is required to have an ID parameter."
+msgstr ""
+
+#: lib/cmb2/includes/CMB2.php:432
+msgid "Click to toggle"
+msgstr ""
+
+#: lib/cmb2/includes/CMB2_Ajax.php:71
+msgid "Please Try Again"
+msgstr ""
+
+#: lib/cmb2/includes/CMB2_Ajax.php:173
+msgid "Remove Embed"
+msgstr ""
+
+#. translators: 1: results for. 2: link to codex.wordpress.org/Embeds
+#: lib/cmb2/includes/CMB2_Ajax.php:181
+#: lib/cmb2/includes/helper-functions.php:99
+msgid "No oEmbed Results Found for %1$s. View more info at %2$s."
+msgstr ""
+
+#: lib/cmb2/includes/CMB2_Base.php:389
+msgid ""
+"The \"%s\" field parameter has been deprecated in favor of the \"%s\" "
+"parameter."
+msgstr ""
+
+#: lib/cmb2/includes/CMB2_Base.php:393
+msgid ""
+"Using the \"%s\" field parameter as a callback has been deprecated in favor "
+"of the \"%s\" parameter."
+msgstr ""
+
+#: lib/cmb2/includes/CMB2_Base.php:423
+msgid ""
+"%1$s was called with a parameter that is <strong>deprecated</strong> since "
+"version %2$s! %3$s"
+msgstr ""
+
+#: lib/cmb2/includes/CMB2_Base.php:426
+msgid ""
+"%1$s was called with a parameter that is <strong>deprecated</strong> since "
+"version %2$s with no alternative available."
+msgstr ""
+
+#: lib/cmb2/includes/CMB2_Base.php:459
+#: lib/cmb2/includes/types/CMB2_Type_Base.php:138
+msgid "Invalid %1$s property: %2$s"
+msgstr ""
+
+#: lib/cmb2/includes/CMB2_Base.php:473
+#: lib/cmb2/includes/types/CMB2_Type_Base.php:123
+msgid "Invalid %1$s method: %2$s"
+msgstr ""
+
+#: lib/cmb2/includes/CMB2_Field.php:1118
+msgid "Add Group"
+msgstr ""
+
+#: lib/cmb2/includes/CMB2_Field.php:1119
+msgid "Remove Group"
+msgstr ""
+
+#: lib/cmb2/includes/CMB2_Field.php:1141 lib/cmb2/includes/CMB2_Field.php:1145
+msgid "None"
+msgstr ""
+
+#: lib/cmb2/includes/CMB2_Field.php:1206
+msgid "Sorry, this field does not have a cmb_id specified."
+msgstr ""
+
+#: lib/cmb2/includes/CMB2_Field_Display.php:406
+#: lib/cmb2/includes/CMB2_JS.php:155
+#: lib/cmb2/includes/types/CMB2_Type_File_Base.php:75
+msgid "File:"
+msgstr ""
+
+#: lib/cmb2/includes/CMB2_JS.php:96 lib/cmb2/includes/CMB2_JS.php:135
+msgid "Clear"
+msgstr ""
+
+#: lib/cmb2/includes/CMB2_JS.php:97
+msgid "Default"
+msgstr ""
+
+#: lib/cmb2/includes/CMB2_JS.php:98
+msgid "Select Color"
+msgstr ""
+
+#: lib/cmb2/includes/CMB2_JS.php:99
+msgid "Current Color"
+msgstr ""
+
+#: lib/cmb2/includes/CMB2_JS.php:125
+msgctxt "Valid formatDate string for jquery-ui datepicker"
+msgid "mm/dd/yy"
+msgstr ""
+
+#: lib/cmb2/includes/CMB2_JS.php:126
+msgid "Sunday, Monday, Tuesday, Wednesday, Thursday, Friday, Saturday"
+msgstr ""
+
+#: lib/cmb2/includes/CMB2_JS.php:127
+msgid "Su, Mo, Tu, We, Th, Fr, Sa"
+msgstr ""
+
+#: lib/cmb2/includes/CMB2_JS.php:128
+msgid "Sun, Mon, Tue, Wed, Thu, Fri, Sat"
+msgstr ""
+
+#: lib/cmb2/includes/CMB2_JS.php:129
+msgid ""
+"January, February, March, April, May, June, July, August, September, "
+"October, November, December"
+msgstr ""
+
+#: lib/cmb2/includes/CMB2_JS.php:130
+msgid "Jan, Feb, Mar, Apr, May, Jun, Jul, Aug, Sep, Oct, Nov, Dec"
+msgstr ""
+
+#: lib/cmb2/includes/CMB2_JS.php:131
+msgid "Next"
+msgstr ""
+
+#: lib/cmb2/includes/CMB2_JS.php:132
+msgid "Prev"
+msgstr ""
+
+#: lib/cmb2/includes/CMB2_JS.php:133
+msgid "Today"
+msgstr ""
+
+#: lib/cmb2/includes/CMB2_JS.php:134 lib/cmb2/includes/CMB2_JS.php:144
+msgid "Done"
+msgstr ""
+
+#: lib/cmb2/includes/CMB2_JS.php:138
+msgid "Choose Time"
+msgstr ""
+
+#: lib/cmb2/includes/CMB2_JS.php:139
+msgid "Time"
+msgstr ""
+
+#: lib/cmb2/includes/CMB2_JS.php:140
+msgid "Hour"
+msgstr ""
+
+#: lib/cmb2/includes/CMB2_JS.php:141
+msgid "Minute"
+msgstr ""
+
+#: lib/cmb2/includes/CMB2_JS.php:142
+msgid "Second"
+msgstr ""
+
+#: lib/cmb2/includes/CMB2_JS.php:143
+msgid "Now"
+msgstr ""
+
+#: lib/cmb2/includes/CMB2_JS.php:145
+msgctxt ""
+"Valid formatting string, as per http://trentrichardson.com/examples/"
+"timepicker/"
+msgid "hh:mm TT"
+msgstr ""
+
+#: lib/cmb2/includes/CMB2_JS.php:151
+msgid "Use this file"
+msgstr ""
+
+#: lib/cmb2/includes/CMB2_JS.php:152
+msgid "Use these files"
+msgstr ""
+
+#: lib/cmb2/includes/CMB2_JS.php:153
+#: lib/cmb2/includes/types/CMB2_Type_File_Base.php:61
+msgid "Remove Image"
+msgstr ""
+
+#: lib/cmb2/includes/CMB2_JS.php:154 lib/cmb2/includes/CMB2_Types.php:300
+#: lib/cmb2/includes/types/CMB2_Type_File_Base.php:80
+msgid "Remove"
+msgstr ""
+
+#: lib/cmb2/includes/CMB2_JS.php:156
+#: lib/cmb2/includes/types/CMB2_Type_File_Base.php:78
+msgid "Download"
+msgstr ""
+
+#: lib/cmb2/includes/CMB2_JS.php:157
+msgid "Select / Deselect All"
+msgstr ""
+
+#: lib/cmb2/includes/CMB2_Types.php:237
+msgid "Add Row"
+msgstr ""
+
+#: lib/cmb2/includes/CMB2_hookup.php:122
+msgid ""
+"Term Metadata is a WordPress 4.4+ feature. Please upgrade your WordPress "
+"install."
+msgstr ""
+
+#: lib/cmb2/includes/CMB2_hookup.php:126
+msgid "Term metaboxes configuration requires a \"taxonomies\" parameter."
+msgstr ""
+
+#: lib/cmb2/includes/helper-functions.php:288
+msgid "Save"
+msgstr ""
+
+#: lib/cmb2/includes/rest-api/CMB2_REST_Controller.php:250
+msgid "This box does not have read permissions."
+msgstr ""
+
+#: lib/cmb2/includes/rest-api/CMB2_REST_Controller.php:268
+msgid "This box does not have write permissions."
+msgstr ""
+
+#: lib/cmb2/includes/rest-api/CMB2_REST_Controller.php:289
+msgid ""
+"No box found by that id. A box needs to be registered with the \"show_in_rest"
+"\" parameter configured."
+msgstr ""
+
+#: lib/cmb2/includes/rest-api/CMB2_REST_Controller.php:365
+msgid "A human-readable description of the object."
+msgstr ""
+
+#: lib/cmb2/includes/rest-api/CMB2_REST_Controller.php:370
+msgid "The id for the object."
+msgstr ""
+
+#: lib/cmb2/includes/rest-api/CMB2_REST_Controller.php:375
+msgid "The title for the object."
+msgstr ""
+
+#: lib/cmb2/includes/rest-api/CMB2_REST_Controller_Boxes.php:50
+msgid "Includes the registered fields for the box in the response."
+msgstr ""
+
+#: lib/cmb2/includes/rest-api/CMB2_REST_Controller_Boxes.php:72
+msgid ""
+"Includes the fully rendered attributes, 'form_open', 'form_close', as well "
+"as the enqueued 'js_dependencies' script handles, and 'css_dependencies' "
+"stylesheet handles."
+msgstr ""
+
+#: lib/cmb2/includes/rest-api/CMB2_REST_Controller_Boxes.php:122
+msgid "No boxes found."
+msgstr ""
+
+#: lib/cmb2/includes/rest-api/CMB2_REST_Controller_Fields.php:27
+msgid ""
+"Includes the box object which the fields are registered to in the response."
+msgstr ""
+
+#: lib/cmb2/includes/rest-api/CMB2_REST_Controller_Fields.php:30
+msgid ""
+"When the '_rendered' argument is passed, the renderable field attributes "
+"will be returned fully rendered. By default, the names of the callback "
+"handers for the renderable attributes will be returned."
+msgstr ""
+
+#: lib/cmb2/includes/rest-api/CMB2_REST_Controller_Fields.php:33
+#: lib/cmb2/includes/rest-api/CMB2_REST_Controller_Fields.php:36
+msgid ""
+"To view or modify the field's value, the 'object_id' and 'object_type' "
+"arguments are required."
+msgstr ""
+
+#: lib/cmb2/includes/rest-api/CMB2_REST_Controller_Fields.php:236
+msgid ""
+"CMB2 Field value cannot be updated without the value parameter specified."
+msgstr ""
+
+#: lib/cmb2/includes/rest-api/CMB2_REST_Controller_Fields.php:295
+msgid ""
+"CMB2 Field value cannot be modified without the object_id and object_type "
+"parameters specified."
+msgstr ""
+
+#: lib/cmb2/includes/rest-api/CMB2_REST_Controller_Fields.php:308
+#: lib/cmb2/includes/rest-api/CMB2_REST_Controller_Fields.php:335
+msgid "No field found by that id."
+msgstr ""
+
+#: lib/cmb2/includes/rest-api/CMB2_REST_Controller_Fields.php:407
+msgid "Value Error for %s"
+msgstr ""
+
+#: lib/cmb2/includes/shim/WP_REST_Controller.php:24
+msgid "The register_routes() method must be overriden"
+msgstr ""
+
+#: lib/cmb2/includes/shim/WP_REST_Controller.php:34
+#: lib/cmb2/includes/shim/WP_REST_Controller.php:44
+#: lib/cmb2/includes/shim/WP_REST_Controller.php:54
+#: lib/cmb2/includes/shim/WP_REST_Controller.php:64
+#: lib/cmb2/includes/shim/WP_REST_Controller.php:74
+#: lib/cmb2/includes/shim/WP_REST_Controller.php:84
+#: lib/cmb2/includes/shim/WP_REST_Controller.php:94
+#: lib/cmb2/includes/shim/WP_REST_Controller.php:104
+#: lib/cmb2/includes/shim/WP_REST_Controller.php:114
+#: lib/cmb2/includes/shim/WP_REST_Controller.php:124
+#: lib/cmb2/includes/shim/WP_REST_Controller.php:134
+#: lib/cmb2/includes/shim/WP_REST_Controller.php:145
+msgid "Method '%s' not implemented. Must be over-ridden in subclass."
+msgstr ""
+
+#: lib/cmb2/includes/shim/WP_REST_Controller.php:248
+msgid "Current page of the collection."
+msgstr ""
+
+#: lib/cmb2/includes/shim/WP_REST_Controller.php:256
+msgid "Maximum number of items to be returned in result set."
+msgstr ""
+
+#: lib/cmb2/includes/shim/WP_REST_Controller.php:265
+msgid "Limit results to those matching a string."
+msgstr ""
+
+#: lib/cmb2/includes/shim/WP_REST_Controller.php:283
+msgid ""
+"Scope under which the request is made; determines fields present in response."
+msgstr ""
+
+#: lib/cmb2/includes/types/CMB2_Type_File.php:36
+msgid "Add or Upload File"
+msgstr ""
+
+#: lib/cmb2/includes/types/CMB2_Type_File_List.php:36
+msgid "Add or Upload Files"
+msgstr ""
+
+#: lib/cmb2/includes/types/CMB2_Type_Taxonomy_Multicheck.php:27
+#: lib/cmb2/includes/types/CMB2_Type_Taxonomy_Radio.php:25
+msgid "No terms"
+msgstr ""
+
+#: lib/gestudio-lavori.php:25 lib/gestudio-lavori.php:36
+msgid "Projects"
+msgstr ""
+
+#: lib/gestudio-lavori.php:26 lib/gestudio-lavori.php:213
+#: lib/gestudio-operatori.php:129 lib/gestudio-prime-note.php:143
+#: lib/gestudio-prime-note.php:258 lib/gestudio-rapporti.php:132
+#: lib/gestudio-rapporti.php:227 lib/gestudio-settings-page.php:266
+#: lib/gestudio.php:231
+msgid "Project"
+msgstr ""
+
+#: lib/gestudio-lavori.php:27 lib/gestudio-operatori.php:23
+#: lib/gestudio-prime-note.php:28 lib/gestudio-rapporti.php:30
+msgid "Add"
+msgstr ""
+
+#: lib/gestudio-lavori.php:28
+msgid "Add Project"
+msgstr ""
+
+#: lib/gestudio-lavori.php:29 lib/gestudio-lavori.php:216
+msgid "Modify Project"
+msgstr ""
+
+#: lib/gestudio-lavori.php:30
+msgid "New Project"
+msgstr ""
+
+#: lib/gestudio-lavori.php:31
+msgid "-List of Projects"
+msgstr ""
+
+#: lib/gestudio-lavori.php:32
+msgid "View Project"
+msgstr ""
+
+#: lib/gestudio-lavori.php:33
+msgid "Search Lavori"
+msgstr ""
+
+#: lib/gestudio-lavori.php:34
+msgid "No Project found"
+msgstr ""
+
+#: lib/gestudio-lavori.php:35
+msgid "No Project found in Trash"
+msgstr ""
+
+#: lib/gestudio-lavori.php:57
+msgid "Project Phase"
+msgstr ""
+
+#: lib/gestudio-lavori.php:73 lib/gestudio-lavori.php:187
+msgid "Inspect Project"
+msgstr ""
+
+#: lib/gestudio-lavori.php:85
+msgid "-Project Phases"
+msgstr ""
+
+#: lib/gestudio-lavori.php:94
+msgid "Client/Timing"
+msgstr ""
+
+#: lib/gestudio-lavori.php:111
+msgid "-Select Client-"
+msgstr ""
+
+#: lib/gestudio-lavori.php:121 lib/gestudio-lavori.php:215
+#: lib/gestudio-operatori.php:130 lib/gestudio-settings-page.php:268
+msgid "Scheduled Deadline"
+msgstr ""
+
+#: lib/gestudio-lavori.php:124 lib/gestudio-prime-note.php:450
+#: lib/gestudio-prime-note.php:462
+msgid "-Select Year-"
+msgstr ""
+
+#: lib/gestudio-lavori.php:133 lib/gestudio-prime-note.php:515
+msgid "-Select Month-"
+msgstr ""
+
+#: lib/gestudio-lavori.php:185 lib/gestudio-operatori.php:88
+msgid "Inspect"
+msgstr ""
+
+#: lib/gestudio-lavori.php:257 lib/gestudio-operatori.php:186
+#: lib/gestudio-rapporti.php:32 lib/gestudio-rapporti.php:244
+msgid "Modify Report"
+msgstr ""
+
+#: lib/gestudio-lavori.php:292 lib/gestudio-operatori.php:223
+#: lib/gestudio-prime-note.php:30 lib/gestudio-prime-note.php:265
+msgid "Modify Blotter Entry"
+msgstr ""
+
+#: lib/gestudio-lavori.php:328
+msgid "To inspect a Project, select from dropdown list and press"
+msgstr ""
+
+#: lib/gestudio-operatori.php:21 lib/gestudio-operatori.php:32
+msgid "Operators"
+msgstr ""
+
+#: lib/gestudio-operatori.php:22 lib/gestudio-operatori.php:116
+#: lib/gestudio-prime-note.php:154 lib/gestudio-prime-note.php:259
+#: lib/gestudio-rapporti.php:120 lib/gestudio-rapporti.php:226
+#: lib/gestudio-settings-page.php:121 lib/gestudio.php:240
+msgid "Operator"
+msgstr ""
+
+#: lib/gestudio-operatori.php:24
+msgid "Add Operator"
+msgstr ""
+
+#: lib/gestudio-operatori.php:25 lib/gestudio-operatori.php:118
+msgid "Modify Operator"
+msgstr ""
+
+#: lib/gestudio-operatori.php:26
+msgid "New Operator"
+msgstr ""
+
+#: lib/gestudio-operatori.php:27
+msgid "-List of Operators"
+msgstr ""
+
+#: lib/gestudio-operatori.php:28
+msgid "View Operator"
+msgstr ""
+
+#: lib/gestudio-operatori.php:29
+msgid "Search Operators"
+msgstr ""
+
+#: lib/gestudio-operatori.php:30
+msgid "No Operator found"
+msgstr ""
+
+#: lib/gestudio-operatori.php:31
+msgid "No Operator found in Trash"
+msgstr ""
+
+#: lib/gestudio-operatori.php:67 lib/gestudio-operatori.php:90
+msgid "Inspect Operator"
+msgstr ""
+
+#: lib/gestudio-operatori.php:79
+msgid "-Roles of Operator"
+msgstr ""
+
+#: lib/gestudio-operatori.php:117 lib/gestudio.php:241
+msgid "Role"
+msgstr ""
+
+#: lib/gestudio-operatori.php:255
+msgid "To inspect an Operator, select from dropdown list and press"
+msgstr ""
+
+#: lib/gestudio-prime-note.php:26 lib/gestudio-prime-note.php:37
+msgid "Blotter Entries"
+msgstr ""
+
+#: lib/gestudio-prime-note.php:27 lib/gestudio-prime-note.php:254
+msgid "Blotter Entry"
+msgstr ""
+
+#: lib/gestudio-prime-note.php:29
+msgid "Add Blotter Entry"
+msgstr ""
+
+#: lib/gestudio-prime-note.php:31
+msgid "New Blotter Entry"
+msgstr ""
+
+#: lib/gestudio-prime-note.php:32
+msgid "-List Blotter Entries"
+msgstr ""
+
+#: lib/gestudio-prime-note.php:33
+msgid "View Blotter Entry"
+msgstr ""
+
+#: lib/gestudio-prime-note.php:34 lib/gestudio-prime-note.php:75
+#: lib/gestudio-prime-note.php:239
+msgid "Search Blotter Entries"
+msgstr ""
+
+#: lib/gestudio-prime-note.php:35
+msgid "No Blotter Entry found"
+msgstr ""
+
+#: lib/gestudio-prime-note.php:36
+msgid "No Blotter Entry found in Trash"
+msgstr ""
+
+#: lib/gestudio-prime-note.php:87
+msgid "-Counting Categories"
+msgstr ""
+
+#: lib/gestudio-prime-note.php:96 lib/gestudio-prime-note.php:260
+msgid "Movement"
+msgstr ""
+
+#: lib/gestudio-prime-note.php:116
+msgid "Cash Income"
+msgstr ""
+
+#: lib/gestudio-prime-note.php:117
+msgid "Cash Expense"
+msgstr ""
+
+#: lib/gestudio-prime-note.php:118
+msgid "Bank Income"
+msgstr ""
+
+#: lib/gestudio-prime-note.php:119
+msgid "Bank Expense"
+msgstr ""
+
+#: lib/gestudio-prime-note.php:120
+msgid "Clearance Bank=>Cash"
+msgstr ""
+
+#: lib/gestudio-prime-note.php:121
+msgid "Clearance Cash=>Bank"
+msgstr ""
+
+#: lib/gestudio-prime-note.php:138 lib/gestudio-rapporti.php:228
+#: lib/gestudio.php:235 lib/gestudio.php:245
+msgid "Amount"
+msgstr ""
+
+#: lib/gestudio-prime-note.php:146 lib/gestudio-rapporti.php:135
+#: lib/gestudio.php:13
+msgid "-Select Project-"
+msgstr ""
+
+#: lib/gestudio-prime-note.php:157 lib/gestudio-rapporti.php:123
+#: lib/gestudio-settings-page.php:172 lib/gestudio.php:7
+msgid "-Select Operator-"
+msgstr ""
+
+#: lib/gestudio-prime-note.php:218
+msgid "Warning: Counting Category not defined."
+msgstr ""
+
+#: lib/gestudio-prime-note.php:237
+msgid "Search"
+msgstr ""
+
+#: lib/gestudio-prime-note.php:255 lib/gestudio-rapporti.php:225
+#: lib/gestudio.php:234 lib/gestudio.php:244
+msgid "Date"
+msgstr ""
+
+#: lib/gestudio-prime-note.php:344 lib/gestudio.php:250
+msgid "Balance"
+msgstr ""
+
+#: lib/gestudio-prime-note.php:357
+msgid ""
+"To search a Blotter Entry, select Project and/or Operator OR time range and/"
+"or Counting Category and/or keyword, then press"
+msgstr ""
+
+#: lib/gestudio-prime-note.php:448
+msgid " Bottom Limit:"
+msgstr ""
+
+#: lib/gestudio-prime-note.php:460
+msgid "Upper Limit:"
+msgstr ""
+
+#: lib/gestudio-prime-note.php:481
+msgid "Counting Category:"
+msgstr ""
+
+#: lib/gestudio-prime-note.php:483
+msgid "-Select Category-"
+msgstr ""
+
+#: lib/gestudio-prime-note.php:493
+msgid "Search Text:"
+msgstr ""
+
+#: lib/gestudio-prime-note.php:530
+msgid "Warning: Counting Category and Movement are in conflict."
+msgstr ""
+
+#: lib/gestudio-rapporti.php:28 lib/gestudio-rapporti.php:39
+msgid "Reports"
+msgstr ""
+
+#: lib/gestudio-rapporti.php:29 lib/gestudio-rapporti.php:223
+msgid "Report"
+msgstr ""
+
+#: lib/gestudio-rapporti.php:31
+msgid "Add Report"
+msgstr ""
+
+#: lib/gestudio-rapporti.php:33
+msgid "Nuovo Report"
+msgstr ""
+
+#: lib/gestudio-rapporti.php:34
+msgid "-List of Reports"
+msgstr ""
+
+#: lib/gestudio-rapporti.php:35
+msgid "View Report"
+msgstr ""
+
+#: lib/gestudio-rapporti.php:36
+msgid "Search Reports"
+msgstr ""
+
+#: lib/gestudio-rapporti.php:37
+msgid "No Report found"
+msgstr ""
+
+#: lib/gestudio-rapporti.php:38
+msgid "No Report found in Trash"
+msgstr ""
+
+#: lib/gestudio-rapporti.php:78
+msgid "Inspect Reports"
+msgstr ""
+
+#: lib/gestudio-rapporti.php:90
+msgid "-Types of Report"
+msgstr ""
+
+#: lib/gestudio-rapporti.php:100
+msgid "Report Data"
+msgstr ""
+
+#: lib/gestudio-rapporti.php:143
+msgid "Taxable"
+msgstr ""
+
+#: lib/gestudio-rapporti.php:147
+msgid "Superannuations (%)"
+msgstr ""
+
+#: lib/gestudio-rapporti.php:151
+msgid "VAT (%)"
+msgstr ""
+
+#: lib/gestudio-rapporti.php:155
+msgid "Withholding (%)"
+msgstr ""
+
+#: lib/gestudio-rapporti.php:209
+msgid "Inspect Reports."
+msgstr ""
+
+#: lib/gestudio-rapporti.php:224
+msgid "Type"
+msgstr ""
+
+#: lib/gestudio-rapporti.php:257
+msgid "At the moment, no Reports to Inspect."
+msgstr ""
+
+#: lib/gestudio-rapporti.php:282
+msgid "Collaboratore"
+msgstr ""
+
+#: lib/gestudio-rapporti.php:283
+msgid ""
+"Warning: if Invoice belongs to the countancy of the Studio, use Blotter "
+"Entry, not a Report."
+msgstr ""
+
+#: lib/gestudio-settings-page.php:34
+msgid "Manage Studio"
+msgstr ""
+
+#: lib/gestudio-settings-page.php:51
+msgid "-Studio Settings"
+msgstr ""
+
+#: lib/gestudio-settings-page.php:63
+msgid "Gestione Studio."
+msgstr ""
+
+#: lib/gestudio-settings-page.php:68
+msgid "Warning: you didn't select the Operator the accountancy is related to."
+msgstr ""
+
+#: lib/gestudio-settings-page.php:69 lib/gestudio-settings-page.php:114
+msgid "Studio Settings"
+msgstr ""
+
+#: lib/gestudio-settings-page.php:79
+msgid "Fixed Monthly Expenses in the last Year: "
+msgstr ""
+
+#: lib/gestudio-settings-page.php:93
+msgid "Save Settings"
+msgstr ""
+
+#: lib/gestudio-settings-page.php:97
+msgid "List of all Projects"
+msgstr ""
+
+#: lib/gestudio-settings-page.php:98
+msgid "List of all Operators"
+msgstr ""
+
+#: lib/gestudio-settings-page.php:99
+msgid "List of all Reports"
+msgstr ""
+
+#: lib/gestudio-settings-page.php:100
+msgid "List of all Blotter Entries"
+msgstr ""
+
+#: lib/gestudio-settings-page.php:129
+msgid "Fixed Expenses"
+msgstr ""
+
+#: lib/gestudio-settings-page.php:160
+msgid ""
+"Select an Operator with Role 'Studio' the accountancy is related to (create "
+"it if necessary), then check the le Counting Categories that build up Fixed "
+"Expenses:"
+msgstr ""
+
+#: lib/gestudio-settings-page.php:269 lib/gestudio.php:257
+msgid "Forecast Incomes "
+msgstr ""
+
+#: lib/gestudio-settings-page.php:373
+msgid "At the moment, no Balance may be forecast (not enough data)."
+msgstr ""
+
+#: lib/gestudio-settings-page.php:388
+msgid "Total Forecast Incomes "
+msgstr ""
+
+#: lib/gestudio-settings-page.php:391
+msgid "Deadline of all Projects "
+msgstr ""
+
+#: lib/gestudio-settings-page.php:394
+msgid "Fixed Expenses at that date "
+msgstr ""
+
+#: lib/gestudio.php:5
+msgid "Operator:"
+msgstr ""
+
+#: lib/gestudio.php:11
+msgid "Project:"
+msgstr ""
+
+#: lib/gestudio.php:40
+msgid "Reset"
+msgstr ""
+
+#: lib/gestudio.php:232 lib/gestudio.php:242
+msgid "Report/Blotter Entry"
+msgstr ""
+
+#: lib/gestudio.php:233 lib/gestudio.php:243
+msgid "Type/Count. Cat."
+msgstr ""
+
+#: lib/gestudio.php:271
+msgid "You must login as Administrator."
+msgstr ""
+
+#: lib/gestudio.php:277
+msgid "Sorry.There was a security issue."
+msgstr ""
+
+#: lib/gestudio.php:296
+msgid "January"
+msgstr ""
+
+#: lib/gestudio.php:297
+msgid "February"
+msgstr ""
+
+#: lib/gestudio.php:298
+msgid "March"
+msgstr ""
+
+#: lib/gestudio.php:299
+msgid "April"
+msgstr ""
+
+#: lib/gestudio.php:300
+msgid "May"
+msgstr ""
+
+#: lib/gestudio.php:301
+msgid "June"
+msgstr ""
+
+#: lib/gestudio.php:302
+msgid "July"
+msgstr ""
+
+#: lib/gestudio.php:303
+msgid "August"
+msgstr ""
+
+#: lib/gestudio.php:304
+msgid "September"
+msgstr ""
+
+#: lib/gestudio.php:305
+msgid "October"
+msgstr ""
+
+#: lib/gestudio.php:306
+msgid "November"
+msgstr ""
+
+#: lib/gestudio.php:307
+msgid "December"
+msgstr ""
+
+#: lib/steel-deck.php:83
+msgid "Maximum lowering of Primary Beams: "
+msgstr ""
+
+#: lib/steel-deck.php:83
+msgid " cm (1/500 of span).<br />"
+msgstr ""
+
+#: lib/steel-deck.php:84
+msgid "Distance of Secondary Beams: "
+msgstr ""
+
+#: lib/steel-deck.php:171
+msgid ""
+"No solution for resistance criterion (ULS), maybe deck is too big for "
+"available sections."
+msgstr ""
+
+#: lib/steel-deck.php:174
+msgid ""
+"<p>For resistance criterion (ULS) you can use %d primary beam(s) %s%s at "
+"distance %01.2f m and secondary %s%s at distance %01.2f m.<br />"
+msgstr ""
+
+#: lib/steel-deck.php:178 lib/steel-deck.php:191
+msgid "Deck's total weight is %01.2f kg and costs around %01.2f Euro.</p>"
+msgstr ""
+
+#: lib/steel-deck.php:184
+msgid ""
+"No solution for deformation criterion (ELS), maybe deck is too big for "
+"available sections."
+msgstr ""
+
+#: lib/steel-deck.php:187
+msgid ""
+"<p>For deformation criterion (ELS) you can use %d primary beam(s) %s%s at "
+"distance %01.2f m and secondary %s%s at distance %01.2f m.<br />"
+msgstr ""
+
+#: lib/steel-deck.php:200
+msgid "Analisys not performed, maybe due to a security issue."
+msgstr ""
+
+#: lib/steel-deck.php:205
+msgid ""
+"Notice that fields 'First Side' and 'Second Side' are required (*) and must "
+"be equal or bigger than 2."
+msgstr ""
+
+#: lib/steel-deck.php:362 lib/steel-deck.php:480
+msgid "Steel Deck"
+msgstr ""
+
+#: lib/steel-deck.php:366
+msgid "Primary Beam Span (m)"
+msgstr ""
+
+#: lib/steel-deck.php:369
+msgid "Deck Width (m)"
+msgstr ""
+
+#: lib/steel-deck.php:374 lib/steel-deck.php:492
+msgid "Restraint Type"
+msgstr ""
+
+#: lib/steel-deck.php:378 lib/steel-deck.php:495
+msgid " Hinge"
+msgstr ""
+
+#: lib/steel-deck.php:382 lib/steel-deck.php:497
+msgid " Half Joint"
+msgstr ""
+
+#: lib/steel-deck.php:386 lib/steel-deck.php:499
+msgid " Joint"
+msgstr ""
+
+#: lib/steel-deck.php:392 lib/steel-deck.php:505
+msgid "Deck Type"
+msgstr ""
+
+#: lib/steel-deck.php:396 lib/steel-deck.php:508
+msgid "Wood (1.9kN)"
+msgstr ""
+
+#: lib/steel-deck.php:400 lib/steel-deck.php:510
+msgid "Steel (2.4kN)"
+msgstr ""
+
+#: lib/steel-deck.php:404 lib/steel-deck.php:512
+msgid "Hollow Bricks (3.2kN)"
+msgstr ""
+
+#: lib/steel-deck.php:408 lib/steel-deck.php:514
+msgid "Bricks (3.8kN)"
+msgstr ""
+
+#: lib/steel-deck.php:414 lib/steel-deck.php:520
+msgid "Steel Type"
+msgstr ""
+
+#: lib/steel-deck.php:418 lib/steel-deck.php:523
+msgid " Mild (235 MPa)"
+msgstr ""
+
+#: lib/steel-deck.php:422 lib/steel-deck.php:525
+msgid " Medium (275 MPa)"
+msgstr ""
+
+#: lib/steel-deck.php:426 lib/steel-deck.php:527
+msgid " Fragile (355 MPa)"
+msgstr ""
+
+#: lib/steel-deck.php:432 lib/steel-deck.php:533
+msgid "Exclude a Profile"
+msgstr ""
+
+#: lib/steel-deck.php:436 lib/steel-deck.php:535
+msgid " None"
+msgstr ""
+
+#: lib/steel-deck.php:450 lib/steel-deck.php:545
+msgid "Design Criterion"
+msgstr ""
+
+#: lib/steel-deck.php:454 lib/steel-deck.php:547
+msgid " Minimal Weight"
+msgstr ""
+
+#: lib/steel-deck.php:458 lib/steel-deck.php:549
+msgid " Minimal Height"
+msgstr ""
+
+#: lib/steel-deck.php:484
+msgid "First Side (>=2m)*"
+msgstr ""
+
+#: lib/steel-deck.php:487
+msgid "Second Side (>=2m)*"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "BIM-ba"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "http://www.andywar.net/wordpress-plugins/bim-ba/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "A very basic Building Information Modeling"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "andywar65"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://www.andywar.net/"
+msgstr ""
